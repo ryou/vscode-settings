@@ -1,0 +1,9 @@
+{
+    "workbench.activityBar.visible": false,
+    "editor.renderWhitespace": "boundary",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "editor.renderControlCharacters": true,
+    "editor.minimap.enabled": false
+}
