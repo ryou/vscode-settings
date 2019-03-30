@@ -1,9 +1,18 @@
 {
-    "workbench.activityBar.visible": false,
-    "editor.renderWhitespace": "boundary",
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "editor.tabSize": 2,
-    "editor.renderControlCharacters": true,
-    "editor.minimap.enabled": false
+  "editor.fontSize": 14,
+  "workbench.activityBar.visible": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+  ],
 }
