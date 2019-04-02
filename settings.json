@@ -15,4 +15,5 @@
       "autoFix": true
     },
   ],
+  "emmet.triggerExpansionOnTab": true,
 }
