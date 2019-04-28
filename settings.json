@@ -16,4 +16,15 @@
     },
   ],
   "emmet.triggerExpansionOnTab": true,
+  "eslint.autoFixOnSave": true,
+  "eslint.validate": [
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+  ],
 }
